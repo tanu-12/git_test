@@ -1,0 +1,3 @@
+Hello world 
+This is odin project
+Pretty fun to work at 
